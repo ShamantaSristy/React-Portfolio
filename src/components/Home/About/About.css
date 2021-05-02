@@ -1,4 +1,4 @@
-.about-section{
+.about-section {
     min-height: 90vh;
     background-color: #e4e3e3;
     display: flex;
@@ -6,11 +6,11 @@
     box-sizing: border-box;
     font-family: monospace;
     align-items: center;
-    justify-content:center;
+    justify-content: center;
     padding: 6vh;
 }
 
-.about-text{
+.about-text {
     padding: 3vh;
     /* height: 60vh;
     width: 100vh;

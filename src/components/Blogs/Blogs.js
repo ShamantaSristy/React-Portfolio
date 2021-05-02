@@ -3,9 +3,9 @@ import { Container } from 'react-bootstrap';
 
 const Blogs = () => {
     return (
-       <Container>
-           <h1>Blogs will be here soon...</h1>
-       </Container>
+        <Container>
+            <h1>Blogs will be here soon...</h1>
+        </Container>
     );
 };
 
