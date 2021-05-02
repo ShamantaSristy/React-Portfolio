@@ -5,10 +5,11 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-import Home from './components/Home/Home';
+// import Home from './components/Home/Home';
 import About from './components/About/About';
 import Projects from './components/Projects/Projects';
 import Blogs from './components/Blogs/Blogs';
+import Home from './components/Home/Home/Home';
 
 function App() {
   return (

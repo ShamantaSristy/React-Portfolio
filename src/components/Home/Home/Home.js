@@ -1,10 +1,11 @@
 import React from 'react';
-import { Button, Nav, Navbar } from 'react-bootstrap';
+import { Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import About from './About/About';
-import Intro from './Intro';
-import Projects from './Projects/Projects';
-import Particles from 'react-particles-js';
+import About from '../About/About';
+import Contact from '../Contact/Contact';
+import Intro from '../Intro/Intro';
+// import Intro from './Intro';
+import Projects from '../Projects/Projects';
 import ParticleComponents from './ParticleComponents';
 
 const Home = () => {
@@ -30,12 +31,15 @@ const Home = () => {
             <div>
             <Intro></Intro>
             </div>
-            {/* <div>
+            <div>
             <About></About>
             </div>
             <div>
             <Projects></Projects>
-            </div> */}
+            </div>
+            <div>
+            <Contact></Contact>
+            </div>
         </div>
     );
 };
