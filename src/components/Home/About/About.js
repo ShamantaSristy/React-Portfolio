@@ -5,10 +5,10 @@ import './About.css';
 const About = () => {
     return (
         <div className="about-section">
-            <h1>About me</h1>
+            <h1>Who's this girl</h1>
             <Container className="mt-3 text-center">
                 <div class="shadow p-3 mb-5 bg-body rounded about-text">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor, sint temporibus veritatis quidem officiis distinctio laudantium harum necessitatibus hic fugiat. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint voluptatum, minus repellat quia quos perspiciatis ad officiis assumenda aspernatur. Minima perspiciatis laborum iusto culpa consequuntur tenetur ullam aliquid. Vitae, quaerat.</p>
+                    <p> I'm a Front-End Developer from Bangladesh who has a serious passion and dedication for building websites and applications. I consider myself a hardworking person and honest in my work. I am energetic and flexible in my working hours. I am always eager to learn new skills. So, currently, I'm learning MERN and I want to be a Full-stack Developer.   </p>
                 </div>
             </Container>
         </div>

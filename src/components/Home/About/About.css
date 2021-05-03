@@ -1,13 +1,14 @@
 .about-section {
     min-height: 90vh;
-    background-color: #e4e3e3;
+    color:aliceblue;
+    background-color: #1a1a2e;
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
     font-family: monospace;
     align-items: center;
     justify-content: center;
-    padding: 6vh;
+    /* padding: 6vh; */
 }
 
 .about-text {

@@ -8,8 +8,9 @@ p {
 }
 
 .intro {
+    color:aliceblue;
     min-height: 100vh;
-    background-color: #e4e3e3;
+    background-color: #1a1a2e;
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
