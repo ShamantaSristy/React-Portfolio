@@ -30,7 +30,7 @@ const Footer = () => {
                                 <i class="fa fa-youtube-play fa-stack-1x fa-inverse icon"></i>
                             </span>
                         </a> */}
-                        <a href="#">
+                        <a href="https://mail.google.com/mail/u/?authuser=shamantasristy@gmail.com">
                             <span class="fa-stack fa-lg tw combo">
                                 <i class="fa fa-circle fa-stack-2x circle"></i>
                                 <i class="fa fa-envelope fa-stack-1x fa-inverse icon"></i>
