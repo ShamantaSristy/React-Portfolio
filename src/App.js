@@ -10,6 +10,7 @@ import About from './components/About/About';
 import Projects from './components/Projects/Projects';
 import Blogs from './components/Blogs/Blogs';
 import Home from './components/Home/Home/Home';
+// import NavigationBar from './components/Shared/NavigationBar/NavigationBar';
 
 function App() {
   return (

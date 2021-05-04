@@ -1,0 +1,85 @@
+.about-section {
+  color:aliceblue;
+  background-color: #1a1a2e;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  font-family: monospace;
+  align-items: center;
+  justify-content: center;
+  /* padding: 6vh; */
+}
+
+
+.row {
+    padding: px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .col-1 {width : 8.33%;}
+  .col-2 {width : 16.66%;}
+  .col-3 {width : 25.0%;}
+  .col-4 {width : 33.33%;}
+  .col-5 {width : 41.66%;}
+  .col-6 {width : 50.0%;}
+  .col-7 {width : 58.33%;}
+  .col-8 {width : 66.66%;}
+  .col-9 {width : 75.0%;}
+  .col-10 {width : 83.33%;}
+  .col-11 {width : 91.66%;}
+  .col-12 {width : 100%;}
+
+  .t-van-pill {
+    color: #008080;
+    font-weight: 600;
+    margin: 15px;
+    height: 28px;
+    width: 150px;
+    padding-top:5px;
+    text-align: center;
+    border-radius: 25px;
+    font-family: 'Open Sans';
+    background-color: #B2D8D8;
+  }
+  
+  .r-van-pill {
+    color: #941010;
+    font-weight: 600;
+    margin: 15px;
+    height: 28px;
+    width: 150px;
+    padding-top:5px;
+    text-align: center;
+    border-radius: 25px;
+    font-family: 'Open Sans';
+    background-color: #ff948f;
+  }
+  
+  .p-van-pill {
+    color: #5B3C8C;
+    font-weight: 600;
+    margin: 15px;
+    height: 28px;
+    width: 150px;
+    padding-top:5px;
+    text-align: center;
+    border-radius: 25px;
+    font-family: 'Open Sans';
+    background-color: #CBC2DD;
+  }
+  
+  .o-van-pill {
+    color: #FA6121;
+    font-weight: 600;
+    margin: 15px;
+    height: 28px;
+    width: 150px;
+    padding-top:5px;
+    text-align: center;
+    border-radius: 25px;
+    font-family: 'Open Sans';
+    background-color: #FFCC99;
+  }
