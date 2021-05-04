@@ -12,7 +12,7 @@ const About = () => {
                 <h1 className="pt-5">About me</h1>
                 <Container className="mt-3 text-center">
                     <div class="shadow p-3 mb-5 bg-body rounded about-text">
-                        <p>I'm a MERN-stack Developer from Bangladesh who has a serious passion and dedication for building dynamic and responsive websites. I consider myself a hardworking person and honest in my work. I am energetic and flexible in my working hours. I am always eager to learn new skills. I have passion for UI effects and animation. </p>
+                        <p>I'm a MERN-stack Developer from Bangladesh who has a serious passion and dedication for building dynamic and responsive websites. I consider myself a hardworking person and honest in my work. I am energetic and flexible in my working hours. I am always eager to learn new skills. I have a passion for UI effects and animation. </p>
                     </div>
                     <div>
                         <h1 className="pt-5">My skills</h1>
