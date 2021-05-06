@@ -2,12 +2,12 @@ import React from 'react';
 import { Button } from 'react-bootstrap';
 import knot from '../../../assets/the-knot.png';
 import bloom from '../../../assets/bloomit.png';
-import cityTransfer from  '../../../assets/city-transfer.png';
+import cityTransfer from '../../../assets/city-transfer.png';
 import alphaSports from '../../../assets/alpha-sports.png';
 import knowCountries from '../../../assets/know-countries.png';
 import portfolio from '../../../assets/portfolio.png';
 import fancy from '../../../assets/fancy1.png';
-import trip from  '../../../assets/dream-trip.png';
+import trip from '../../../assets/dream-trip.png';
 import aboutMe from '../../../assets/about-me.png';
 
 // Import Swiper styles
@@ -31,6 +31,7 @@ import "swiper/components/pagination/pagination.min.css"
 import SwiperCore, {
     EffectCoverflow, Pagination
 } from 'swiper/core';
+import { Link } from 'react-router-dom';
 
 // install Swiper modules
 SwiperCore.use([EffectCoverflow, Pagination]);
@@ -51,7 +52,51 @@ const Projects = () => {
                     "modifier": 1,
                     "slideShadows": true
                 }} pagination={true} className="mySwiper">
-                    <SwiperSlide><img class="img-fluid" src={knot} alt="" /></SwiperSlide><SwiperSlide><img src={bloom} alt=""/></SwiperSlide><SwiperSlide><img src={cityTransfer} alt="" /></SwiperSlide><SwiperSlide><img src={alphaSports} alt=""/></SwiperSlide><SwiperSlide><img src={knowCountries} alt=""/></SwiperSlide><SwiperSlide><img src={portfolio} alt=""/></SwiperSlide><SwiperSlide><img src={fancy} alt="" /></SwiperSlide><SwiperSlide><img src={trip} alt=""/></SwiperSlide><SwiperSlide><img src={aboutMe} alt=""/></SwiperSlide>
+                    <SwiperSlide>
+                        <Link to="/projects">
+                            <img class="img-fluid" src={knot} alt="" />
+                        </Link>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Link to="/projects">
+                            <img src={bloom} alt="" />
+                        </Link>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Link to="/projects">
+                            <img src={cityTransfer} alt="" />
+                        </Link>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Link to="/projects">
+                            <img src={alphaSports} alt="" />
+                        </Link>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Link to="/projects">
+                            <img src={knowCountries} alt="" />
+                        </Link>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Link to="/projects">
+                            <img src={portfolio} alt="" />
+                        </Link>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Link to="/projects">
+                            <img src={fancy} alt="" />
+                        </Link>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Link to="/projects">
+                            <img src={trip} alt="" />
+                        </Link>
+                    </SwiperSlide>
+                    <SwiperSlide>
+                        <Link to="/projects">
+                            <img src={aboutMe} alt="" />
+                        </Link>
+                    </SwiperSlide>
                 </Swiper>
             </div>
             <div className="d-flex justify-content-center text-center pt-5">

@@ -9,7 +9,7 @@ const Blogs = () => {
             <NavigationBar></NavigationBar>
             <div style={{backgroundColor:"#1a1a2e", color:"aliceblue", minHeight:"100vh"}}>
             <Container>
-            <h1 className="text-center pt-10 pb-10">Blogs will be here soon...</h1>
+            <h1 className="text-center pt-10 pb-10">Blogs are coming soon...</h1>
         </Container>
             </div>
             <Footer></Footer>

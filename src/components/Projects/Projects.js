@@ -18,35 +18,35 @@ import Footer from '../Shared/Footer/Footer';
 const projectData = [
   {
     title: 'The Knot',
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',
+    description: 'This a Bangladeshi wedding manager app.Where, users can order services related to wedding like wedding photography, makeup packages, bridal wear etc. It has google authentication system so that a users information can be safe.And this website provides a admin panel service too.Where an admin has special access and can manage the services.         ',
     img: knot,
     git: 'https://github.com/ShamantaSristy/The-Knot-Client',
     live: 'https://the-knot-1.web.app/'
   },
   {
     title: 'BloomIt',
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',
+    description: 'This is an online flower shop where users can buy flowers, bouquet, plants for different purpose. It has google authentication system so that a users information can be safe.And this website provides a admin panel service too.Where an admin has special access and can manage the services.         ',
     img: bloom,
     git: 'https://github.com/ShamantaSristy/Bloom-It-Client',
     live: 'https://bloomit-72292.web.app/'
   },
   {
     title: 'City Transfer',
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',
+    description: 'City Transfer simple ride-sharing app where users have four options of rides. They can choose rides of their preferences.Users can search for their destination with Google map.Google authentication system activated with Email and Password authentication.        ',
     img: cityTransfer,
     git: 'https://github.com/ShamantaSristy/City-Transfer',
     live: 'https://city-transfer-5231c.web.app/'
   },
   {
     title: 'Alpha Sports League',
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',
+    description: 'This is a sports website which gives information about different sports leagues. Visitors will have the key information about a league displayed on the homepage such as league name, sports type, and the country of the league.        ',
     img: alphaSports,
     git: 'https://github.com/ShamantaSristy/Alpha-Sports',
     live: 'https://clever-jones-de8866.netlify.app/'
   },
   {
     title: 'Know Countries',
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',
+    description: ' This webpage was created using npx create react-app and REST API . This site is about 250 countries of the world. It will help you users know the details information about those country such as population, area, flag, language, region etc.        ',
     img: knowCountries,
     git: 'https://github.com/ShamantaSristy/know-countries',
     live: 'https://frosty-curie-08e48c.netlify.app/'

@@ -20,8 +20,10 @@ const Contact = () => {
 
 
     return (
-        <div className="pb-5" style={{ backgroundColor: "#1a1a2e" }}>
-            <h2 style={{ color: "aliceblue" }} className="text-center pt-5 ">Get In Touch</h2>
+        <div className="pt-5 pb-5" style={{ backgroundColor: "#1a1a2e" }}>
+            <div>
+            <h2 style={{ color: "aliceblue" }} className="text-center mb-5 pt-5 ">Get In Touch</h2>
+            </div>
             <div class="container d-flex justify-content-center align-items-center">
 
                 {/* <!-- // SVG
