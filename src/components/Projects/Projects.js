@@ -53,28 +53,28 @@ const projectData = [
   },
   {
     title: 'Portfolio',
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',
+    description: 'This fully responsive application represents my skills, projects and a brief introduction of mine. Anyone interested about me,can see resume by clicking on a button on navigation bar. And Swiper.js Carousel used.        ',
     img: portfolio,
     git: 'https://github.com/ShamantaSristy/React-Portfolio',
     live: 'https://objective-archimedes-bf1821.netlify.app/'
   },
   {
     title: 'Fancy Slider',
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',
+    description: 'Fancy-Slider is an app where users can search for any type of pictures they want to see on carousel and they can choose pictures that will be displayed in carousel.Custom carousel options such as users can select multiple images and can set time duration for displaying the image on carousel.        ',
     img: fancy,
     git: 'https://github.com/ShamantaSristy/Fancy-slider',
     live: 'https://shamantasristy.github.io/Fancy-slider/'
   },
   {
     title: 'Dream Trip',
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',
+    description: 'Dream Trip is a full responsive travel agency website which was using only HTML and CSS. The webpage has six different sections.Every pictures used in the webpage are animated using CSS transition and transformation.       ',
     img: trip,
     git: 'https://github.com/ShamantaSristy/DreamTrip',
     live: 'https://shamantasristy.github.io/DreamTrip/'
   },
   {
     title: 'About Me',
-    description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea, placeat totam laborum maiores, esse assumenda porro error natus sit ipsam.        ',
+    description: 'About - Me is a portfolio website using HTML, CSS and JavaScript.It is fully responsive and some of my other were featured like Panda Commerce(e-commerce website), Cooking Master(recipe app using REST API) which will be found in my github profile.       ',
     img: aboutMe,
     git: 'https://github.com/ShamantaSristy/About-Me',
     live: 'https://shamantasristy.github.io/About-Me/'

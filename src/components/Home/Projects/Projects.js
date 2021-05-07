@@ -53,54 +53,54 @@ const Projects = () => {
                     "slideShadows": true
                 }} pagination={true} className="mySwiper">
                     <SwiperSlide>
-                        <Link to="/projects">
-                            <img class="img-fluid" src={knot} alt="" />
-                        </Link>
+                        <a href="https://the-knot-1.web.app/">
+                        <img class="img-fluid" src={knot} alt="" />
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Link to="/projects">
-                            <img src={bloom} alt="" />
-                        </Link>
+                        <a href="https://bloomit-72292.web.app/">
+                        <img src={bloom} alt="" />
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Link to="/projects">
-                            <img src={cityTransfer} alt="" />
-                        </Link>
+                        <a href="https://city-transfer-5231c.web.app/">
+                        <img src={cityTransfer} alt="" />
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Link to="/projects">
-                            <img src={alphaSports} alt="" />
-                        </Link>
+                        <a href="https://clever-jones-de8866.netlify.app/">
+                        <img src={alphaSports} alt="" />
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Link to="/projects">
-                            <img src={knowCountries} alt="" />
-                        </Link>
+                        <a href="https://frosty-curie-08e48c.netlify.app/">
+                        <img src={knowCountries} alt="" />
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Link to="/projects">
-                            <img src={portfolio} alt="" />
-                        </Link>
+                        <a href="https://objective-archimedes-bf1821.netlify.app/">
+                        <img src={portfolio} alt="" />
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Link to="/projects">
-                            <img src={fancy} alt="" />
-                        </Link>
+                        <a href="https://shamantasristy.github.io/Fancy-slider/">
+                        <img src={fancy} alt="" />
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Link to="/projects">
-                            <img src={trip} alt="" />
-                        </Link>
+                        <a href="https://shamantasristy.github.io/DreamTrip/">
+                        <img src={trip} alt="" />
+                        </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Link to="/projects">
-                            <img src={aboutMe} alt="" />
-                        </Link>
+                        <a href="https://shamantasristy.github.io/About-Me/">
+                        <img src={aboutMe} alt="" />
+                        </a>
                     </SwiperSlide>
                 </Swiper>
             </div>
             <div className="d-flex justify-content-center text-center pt-5">
-                <Button>See More </Button>
+                <Link to="/projects"><Button>See More</Button></Link>
             </div>
         </div>
     );
