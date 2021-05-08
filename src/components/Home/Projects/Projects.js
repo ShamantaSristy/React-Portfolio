@@ -54,53 +54,55 @@ const Projects = () => {
                 }} pagination={true} className="mySwiper">
                     <SwiperSlide>
                         <a href="https://the-knot-1.web.app/">
-                        <img class="img-fluid" src={knot} alt="" />
+                            <img class="img-fluid" src={knot} alt="" />
                         </a>
                     </SwiperSlide>
                     <SwiperSlide>
                         <a href="https://bloomit-72292.web.app/">
-                        <img src={bloom} alt="" />
+                            <img src={bloom} alt="" />
                         </a>
                     </SwiperSlide>
                     <SwiperSlide>
                         <a href="https://city-transfer-5231c.web.app/">
-                        <img src={cityTransfer} alt="" />
+                            <img src={cityTransfer} alt="" />
                         </a>
                     </SwiperSlide>
                     <SwiperSlide>
                         <a href="https://clever-jones-de8866.netlify.app/">
-                        <img src={alphaSports} alt="" />
+                            <img src={alphaSports} alt="" />
                         </a>
                     </SwiperSlide>
                     <SwiperSlide>
                         <a href="https://frosty-curie-08e48c.netlify.app/">
-                        <img src={knowCountries} alt="" />
+                            <img src={knowCountries} alt="" />
                         </a>
                     </SwiperSlide>
                     <SwiperSlide>
                         <a href="https://objective-archimedes-bf1821.netlify.app/">
-                        <img src={portfolio} alt="" />
+                            <img src={portfolio} alt="" />
                         </a>
                     </SwiperSlide>
                     <SwiperSlide>
                         <a href="https://shamantasristy.github.io/Fancy-slider/">
-                        <img src={fancy} alt="" />
+                            <img src={fancy} alt="" />
                         </a>
                     </SwiperSlide>
                     <SwiperSlide>
                         <a href="https://shamantasristy.github.io/DreamTrip/">
-                        <img src={trip} alt="" />
+                            <img src={trip} alt="" />
                         </a>
                     </SwiperSlide>
                     <SwiperSlide>
                         <a href="https://shamantasristy.github.io/About-Me/">
-                        <img src={aboutMe} alt="" />
+                            <img src={aboutMe} alt="" />
                         </a>
                     </SwiperSlide>
                 </Swiper>
             </div>
             <div className="d-flex justify-content-center text-center pt-5">
-                <Link to="/projects"><Button>See More</Button></Link>
+                <Link to="/projects"><button class="button button--nina button--text-thick button--text-upper button--size-s" data-text="See More">
+                    <span>S</span><span>e</span><span>e</span><span></span> <span>M</span><span>o</span><span>r</span><span>e</span>
+                </button></Link>
             </div>
         </div>
     );
