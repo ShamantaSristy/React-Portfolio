@@ -1,5 +1,4 @@
 import React from 'react';
-import { Button } from 'react-bootstrap';
 import knot from '../../../assets/the-knot.png';
 import bloom from '../../../assets/bloomit.png';
 import cityTransfer from '../../../assets/city-transfer.png';
