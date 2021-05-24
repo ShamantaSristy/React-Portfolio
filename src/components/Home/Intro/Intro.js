@@ -15,7 +15,7 @@ const Intro = () => {
                         // steps={['Hello', 1000, 'Hello world!', 500]}
                         loop={Infinity}
                         wrapper="b"
-                        steps={['Web Developer', 1000, 'Learner', 1000]}
+                        steps={['Front-End Developer', 1000, 'Javascript Enthusiast', 1000, 'Learner', 1000, 'Book Lover', 1000]}
                     />
                 </p>
             </div>
