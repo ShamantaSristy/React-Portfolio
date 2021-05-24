@@ -77,7 +77,7 @@ const Projects = () => {
                         </a>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <a href="https://objective-archimedes-bf1821.netlify.app/">
+                        <a href="https://shamantasristy-react-portfolio.netlify.app/">
                             <img src={portfolio} alt="" />
                         </a>
                     </SwiperSlide>
