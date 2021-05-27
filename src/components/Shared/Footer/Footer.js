@@ -18,7 +18,7 @@ const Footer = () => {
                                 <i class="fa fa-instagram fa-stack-1x fa-inverse icon"></i>
                             </span>
                         </a> */}
-                        <a href="https://www.facebook.com/shamantasristy/" target="_blank">
+                        <a href="https://www.facebook.com/shamantasristy/">
                             <span class="fa-stack fa-lg fb combo">
                                 <i class="fa fa-circle fa-stack-2x circle"></i>
                                 <i class="fa fa-facebook fa-stack-1x fa-inverse icon"></i>
@@ -30,19 +30,19 @@ const Footer = () => {
                                 <i class="fa fa-youtube-play fa-stack-1x fa-inverse icon"></i>
                             </span>
                         </a> */}
-                        <a href="https://mail.google.com/mail/u/?authuser=shamantasristy@gmail.com" target="_blank">
+                        <a href="https://mail.google.com/mail/u/?authuser=shamantasristy@gmail.com">
                             <span class="fa-stack fa-lg tw combo">
                                 <i class="fa fa-circle fa-stack-2x circle"></i>
                                 <i class="fa fa-envelope fa-stack-1x fa-inverse icon"></i>
                             </span>
                         </a>
-                        <a href="https://github.com/ShamantaSristy" target="_blank">
+                        <a href="https://github.com/ShamantaSristy">
                             <span class="fa-stack fa-lg gt combo">
                                 <i class="fa fa-circle fa-stack-2x circle"></i>
                                 <i class="fa fa-github fa-stack-1x fa-inverse icon"></i>
                             </span>
                         </a>
-                        <a href="https://www.linkedin.com/in/shamanta-sristy-1904681b1/" target="_blank">
+                        <a href="https://www.linkedin.com/in/shamanta-sristy-1904681b1/">
                             <span class="fa-stack fa-lg tw combo">
                                 <i class="fa fa-circle fa-stack-2x circle"></i>
                                 <i class="fa fa-linkedin fa-stack-1x fa-inverse icon"></i>
