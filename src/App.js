@@ -10,7 +10,7 @@ import About from './components/About/About';
 import Projects from './components/Projects/Projects';
 import Blogs from './components/Blogs/Blogs';
 import Home from './components/Home/Home/Home';
-import TheKnot from './components/Projects/ProjectInDetail/TheKnot/TheKnot';
+// import TheKnot from './components/Projects/ProjectInDetail/TheKnot/TheKnot';
 // import NavigationBar from './components/Shared/NavigationBar/NavigationBar';
 
 function App() {
@@ -32,9 +32,9 @@ function App() {
         <Route path="/blogs">
           <Blogs></Blogs>
         </Route>
-        <Route exact path="/project/knot">
+        {/* <Route exact path="/project/knot">
           <TheKnot></TheKnot>
-        </Route>
+        </Route> */}
       </Switch>
     </Router>
   );
