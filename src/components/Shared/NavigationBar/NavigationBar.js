@@ -14,7 +14,7 @@ const NavigationBar = () => {
                         <Nav.Link> <Link style={{ color: 'white', textDecoration: "none" }} to="/about">About</Link> </Nav.Link>
                         <Nav.Link> <Link style={{ color: 'white', textDecoration: "none" }} to="/projects">Projects</Link> </Nav.Link>
                         <Nav.Link> <Link style={{ color: 'white', textDecoration: "none" }} to="/blogs">Blogs</Link> </Nav.Link>
-                        <Nav.Link style={{ color: 'white', textDecoration: "none" }} href="https://drive.google.com/file/d/1p9AzTqCsobtHYFrrnwaxpcf1RKhEqIi8/view?usp=sharing">Resume</Nav.Link>
+                        <Nav.Link style={{ color: 'white', textDecoration: "none" }} href="https://drive.google.com/file/d/1p9AzTqCsobtHYFrrnwaxpcf1RKhEqIi8/view?usp=sharing" target="_blank">Resume</Nav.Link>
                         {/* <Nav.Link> <Link style={{ color: '#16213e' }} to="/resume">Resume</Link>  </Nav.Link> */}
                     </Nav>
                 </Navbar.Collapse>

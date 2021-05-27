@@ -56,7 +56,7 @@ const projectData = [
     description: 'This fully responsive application represents my skills, projects and a brief introduction of mine. Anyone interested about me,can see resume by clicking on a button on navigation bar. And Swiper.js Carousel used.        ',
     img: portfolio,
     git: 'https://github.com/ShamantaSristy/React-Portfolio',
-    live: 'https://objective-archimedes-bf1821.netlify.app/'
+    live: 'https://shamantasristy-react-portfolio.netlify.app/'
   },
   {
     title: 'Fancy Slider',
